@@ -147,7 +147,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Nikhil**
 - GitHub: [@nikhi1503](https://github.com/nikhi1503)
-- LinkedIn: [nikhi1503](https://linkedin.com/in/nikhi1503)
+- LinkedIn: [nikhil1503](https://linkedin.com/in/nikhil1503)
 
 ## 🙏 Acknowledgments
 
