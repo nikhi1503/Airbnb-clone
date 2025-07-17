@@ -67,19 +67,9 @@ If you see a "Dangerous site" warning in Chrome, this is a false positive. To ac
    npm install --legacy-peer-deps
    ```
 
-3. **Set up environment variables:**
-   Create a `.env` file in the root directory:
-   ```env
-   CLOUDINARY_CLOUD_NAME=your_cloud_name
-   CLOUDINARY_KEY=your_api_key
-   CLOUDINARY_SECRET=your_api_secret
-   MONGO_URL=mongodb://localhost:27017/wanderlust
-   SECRET=your_session_secret
-   ```
+3. **Start MongoDB** (if running locally)
 
-4. **Start MongoDB** (if running locally)
-
-5. **Run the application:**
+4. **Run the application:**
    ```bash
    npm start
    ```
@@ -88,7 +78,7 @@ If you see a "Dangerous site" warning in Chrome, this is a false positive. To ac
    npx nodemon app.js
    ```
 
-6. **Visit:** [http://localhost:8080](http://localhost:8080)
+5. **Visit:** [http://localhost:8080](http://localhost:8080)
 
 ## 📁 Project Structure
 
