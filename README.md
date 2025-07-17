@@ -4,7 +4,7 @@ A full-stack web application inspired by Airbnb, built with Node.js, Express, Mo
 
 ## 🌟 Live Demo(Open Link in Incognito Window )
 
-**Website:** [https://airbnb-clone-9fg9.onrender.com/](https://airbnb-clone-9fg9.onrender.com/listings) 
+**Website:** [https://airbnb-clone-9fg9.onrender.com/](https://airbnb-clone-9fg9.onrender.com/) 
 
 ### ⚠️ **Important Notice**
 If you see a "Dangerous site" warning in Chrome, this is a false positive. To access the site safely:
