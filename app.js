@@ -68,9 +68,9 @@ httpOnly:true,
 }
 };
 
-// app.get ("/",(req ,res)=>{
-//     res.send("hi i am root ")
-// });
+app.get ("/",(req ,res)=>{
+ res.redirect("/listings")
+});
 
 
 app.use(session(sessionOption))
